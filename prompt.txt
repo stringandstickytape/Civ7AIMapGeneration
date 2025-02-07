@@ -1,0 +1,13 @@
+I've attached an api guide, supporting information and exampels of how Civ 7 map generator scripts work.
+
+Based on all of this, write me a new JS that implements an Earth-like map, demarcated with backticks.
+Interpret Earth-like however you like, but explain how you interpreted it.  
+Ensure that all the necessary rules are followed, much like the existing map types.  
+Demarcate your code output with backticks.  
+Ensure that your output code is superbly commented so a human can easily learn from it and understand how it works.  
+Be sure to include all the necessary imports.
+Ensure the landmasses are NOT square(ish).  I want them to be very much like Earth-style landmasses with internal seas and so on.
+Do not presume the existence of any global functions apart from those you have been told about.
+Ensure there are at least two continents.
+
+Ensure that plenty of land (not sea) is available, and that all continents are separated by 8 coastal/ocean tiles as described in the supporting info.
